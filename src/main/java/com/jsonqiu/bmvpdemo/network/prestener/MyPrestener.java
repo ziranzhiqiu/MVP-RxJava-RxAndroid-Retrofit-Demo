@@ -6,6 +6,7 @@ import com.jsonqiu.bmvpdemo.network.view.MyView;
 
 /**
  * Created by JsonQiu on 2017/10/17 14:25.
+ * P 的 高级父类接口
  */
 
 public interface MyPrestener {

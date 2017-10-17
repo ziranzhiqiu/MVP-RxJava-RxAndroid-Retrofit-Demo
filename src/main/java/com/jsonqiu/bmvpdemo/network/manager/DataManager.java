@@ -11,6 +11,7 @@ import rx.Observable;
 
 /**
  * Created by JsonQiu on 2017/10/17 14:16.
+ * 网络数据管理类：用于二次封装调用
  */
 
 public class DataManager {

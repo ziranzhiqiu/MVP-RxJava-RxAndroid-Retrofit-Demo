@@ -4,6 +4,7 @@ import java.util.List;
 
 /**
  * Created by JsonQiu on 2017/10/17 13:55.
+ * JAVABean类————实体
  */
 
 public class BookBean {

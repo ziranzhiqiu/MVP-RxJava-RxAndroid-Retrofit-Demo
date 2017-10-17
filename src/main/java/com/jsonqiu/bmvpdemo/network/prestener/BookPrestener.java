@@ -16,6 +16,7 @@ import rx.subscriptions.CompositeSubscription;
 
 /**
  * Created by JsonQiu on 2017/10/17 14:25.
+ * MVP中的   P ,是连接 M（Model）  与 V(View、Activity)  的 桥梁
  */
 
 public class BookPrestener implements MyPrestener {
