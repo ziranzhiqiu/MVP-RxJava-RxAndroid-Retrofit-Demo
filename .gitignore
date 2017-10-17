@@ -1,0 +1,4 @@
+/build
+bmvpdemo.iml
+src/test/java/com/jsonqiu/bmvpdemo/ExampleUnitTest.java
+src/androidTest/java/com/jsonqiu/bmvpdemo/ExampleInstrumentedTest.java
